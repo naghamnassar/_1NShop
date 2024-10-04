@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nshop.PL", "Nshop.PL\Nshop.PL.csproj", "{6C776983-1B21-4466-BE7A-313C96C836A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nshop.DAL", "Nshop.DAL\Nshop.DAL.csproj", "{34FDBF78-0825-4345-9A7B-BCEABF87EB6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nshop.BLL", "Nshop.BL\Nshop.BLL.csproj", "{E44A170D-042D-4D91-A012-0665664BC888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C776983-1B21-4466-BE7A-313C96C836A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C776983-1B21-4466-BE7A-313C96C836A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C776983-1B21-4466-BE7A-313C96C836A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C776983-1B21-4466-BE7A-313C96C836A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FDBF78-0825-4345-9A7B-BCEABF87EB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FDBF78-0825-4345-9A7B-BCEABF87EB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FDBF78-0825-4345-9A7B-BCEABF87EB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FDBF78-0825-4345-9A7B-BCEABF87EB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44A170D-042D-4D91-A012-0665664BC888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44A170D-042D-4D91-A012-0665664BC888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44A170D-042D-4D91-A012-0665664BC888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44A170D-042D-4D91-A012-0665664BC888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {230CFB15-6458-48A0-8186-46EB57FAF941}
+	EndGlobalSection
+EndGlobal
